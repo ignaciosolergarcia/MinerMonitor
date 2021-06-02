@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace HardwareTemperature
+namespace MinerMonitor
 {
     internal class MinerController : IMinerController
     {

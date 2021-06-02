@@ -2,7 +2,7 @@
 using System;
 using System.Linq;
 
-namespace HardwareTemperature
+namespace MinerMonitor
 {
     internal class TemperatureReader : ITemperatureReader
     {

@@ -2,7 +2,7 @@
 using System;
 using System.Timers;
 
-namespace HardwareTemperature
+namespace MinerMonitor
 {
     public class Program
     {

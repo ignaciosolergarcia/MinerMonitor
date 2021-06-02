@@ -1,4 +1,4 @@
-﻿namespace HardwareTemperature
+﻿namespace MinerMonitor
 {
     internal interface IMinerController
     {

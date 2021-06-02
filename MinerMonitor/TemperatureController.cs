@@ -2,7 +2,7 @@
 using System;
 using System.Timers;
 
-namespace HardwareTemperature
+namespace MinerMonitor
 {
     internal class TemperatureController : ITemperatureController
     {
