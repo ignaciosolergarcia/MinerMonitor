@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HardwareTemperature.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Executable" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\Etherminer\Ethminer.exe</Value>
+    </Setting>
+    <Setting Name="CommandLine" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">-P stratum1+ssl://0x0d694f0fcd52abfbfde7d42d0b0d97ee891fa269.SoMoS@eu1.ethermine.org:5555 -v 9</Value>
+    </Setting>
+    <Setting Name="MinimumTemperature" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">65</Value>
+    </Setting>
+    <Setting Name="MonitorIntervalInSeconds" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="TimeoutWaitingTemperatureInSeconds" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
